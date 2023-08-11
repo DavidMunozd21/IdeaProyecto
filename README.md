@@ -16,3 +16,10 @@ Se puede añadir una función de prioridades para que los usuarios puedan marcar
 Los usuarios pueden optar por recibir una notificación diaria a una hora específica para recordarles revisar sus tareas del día.
 
 Aunque la simplicidad es clave, podrías permitir a los usuarios cambiar el color de fondo o elegir entre algunas opciones de temas.
+
+Aplicaciones similares:
+*Lista de tareas
+
+*Agenda:Schedule Planner
+
+*Calendar Plus - Agenda Planner
